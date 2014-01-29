@@ -108,20 +108,28 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Faucets
 
-- [The Moon Race](http://www.moonrace.tk)
-- [Rapidhash Faucet](https://faucet.rapidhash.net)
-- [DogeCoinFaucet.com](http://dogecoinfaucet.com/)
-- [CryptoBucket Faucet](http://cryptobucket.com/dogefaucet.php)
-- [Dogecoin Faucet](http://185.38.47.229/faucet/)
-- http://dogefoode.bidouille.org/
 - [In Doge We Trust](http://indogewetrust.com/faucet) (use promo code: install gentoo)
-- [FreeDoge](http://www.freedoge.com)
+- [Doge faucet] (http://www.dogefaucet.com/)
+
+
+### empty
+- [Dogecoin Faucet](http://185.38.47.229/faucet/)
 - [Dogey Faucet](http://faucet.frd.mn/)
 - [Pawcett](http://pawcett.com)
+- [The Moon Race](http://www.moonrace.tk)
+
+### broken?
+- http://dogefoode.bidouille.org/
+- [Rapidhash Faucet](https://faucet.rapidhash.net)
 - [Wow Such Faucet](http://wowsuchfaucet.com.ar)
-- [Silabsofts Faucet] (http://silabsoft.org/doge/index.php/)
-- [Doge faucet] (http://www.dogefaucet.com/)
 - [Free Dogecoin Faucet](http://doge.freefaucet.com.ar)
+- [CryptoBucket Faucet](http://cryptobucket.com/dogefaucet.php)
+- [FreeDoge](http://www.freedoge.com)
+- [Silabsofts Faucet] (http://silabsoft.org/doge/index.php/)
+- [DogeCoinFaucet.com](http://dogecoinfaucet.com/)
+
+
+
 
 ## Games
 
