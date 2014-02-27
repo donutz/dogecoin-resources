@@ -108,8 +108,8 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Faucets
 
-- [In Doge We Trust](http://indogewetrust.com/faucet) (use promo code: install gentoo)
 - [Doge faucet] (http://www.dogefaucet.com/)
+- [Bartstuff] (http://bartstuff.eu/doge/doge2.php
 
 
 ### empty
@@ -119,6 +119,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [The Moon Race](http://www.moonrace.tk)
 
 ### broken?
+- [In Doge We Trust](http://indogewetrust.com/faucet) (use promo code: install gentoo)
 - http://dogefoode.bidouille.org/
 - [Rapidhash Faucet](https://faucet.rapidhash.net)
 - [Wow Such Faucet](http://wowsuchfaucet.com.ar)
