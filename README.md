@@ -109,7 +109,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 ## Faucets
 
 - [Doge faucet] (http://www.dogefaucet.com/)
-- [Bartstuff] (http://bartstuff.eu/doge/doge2.php
+- [Bartstuff] (http://bartstuff.eu/doge/doge2.php)
 
 
 ### empty
